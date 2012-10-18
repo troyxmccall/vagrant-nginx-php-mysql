@@ -24,6 +24,10 @@
 ##example config here
 https://gist.github.com/3913295
 
+##restart nginx
+	sudo /etc/init.d/nginx restart
+
+
 ##remember to update your machine host file
 	vim /private/etc/hosts
 		33.33.33.33     lucid32.dev
