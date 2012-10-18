@@ -1,6 +1,6 @@
-Vagrant Box Setup
+##Vagrant Nginx/PHP/MYSQL Box Setup
 
-Requirements: Vagrant, Oracle VirtualBox, Base Box (Lucid32)
+###Requirements: Vagrant, Oracle VirtualBox, Base Box (Lucid32)
 *Xcode is required on OSX for librarian-chef install
 
 	git clone https://github.com/troyxmccall/vagrant-nginx-php-mysql.git vagrantnginx
