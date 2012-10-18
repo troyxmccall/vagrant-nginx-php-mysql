@@ -4,7 +4,7 @@
 
 git clone https://github.com/troyxmccall/vagrant-nginx-php-mysql.git vagrantnginx
 
-cd vagrantnignx
+cd vagrantnginx
 
 gem install librarian
 
